@@ -1,0 +1,110 @@
+{
+  "@@locale": "en",
+  "normalTextHomeDescription": "This tool can help you quit smoking.",
+  "@normalTextHomeDescription": { "description": "Description text shown on the home screen." },
+  
+  "configureYourPlan": "Configure your plan",
+  "@configureYourPlan": { "description": "Label for configuring the user's quit-smoking plan." },
+  
+  "seeYourProgress": "Your progress",
+  "@seeYourProgress": { "description": "Label for displaying user progress." },
+  
+  "generalSettings": "General Settings",
+  "@generalSettings": { "description": "Label for accessing general settings." },
+  
+  "homeAddSmoked": "Add smoked",
+  "@homeAddSmoked": { "description": "Button for logging a smoked cigarette." },
+  
+  "progressLevel": "Progress level",
+  "@progressLevel": { "description": "Label for displaying progress level." },
+  
+  "progressRate": "Progress rate",
+  "@progressRate": { "description": "Label for displaying progress rate." },
+  
+  "sinceTheLastTimeYouSmoked": "Since the last time you smoked",
+  "@sinceTheLastTimeYouSmoked": { "description": "Text displaying the time since last cigarette." },
+  
+  "notSmokedSince": "You haven't smoked since",
+  "@notSmokedSince": { "description": "Message indicating the time the user has been smoke-free." },
+  
+  "averageSmokedPerDay": "Average smoked per day",
+  "@averageSmokedPerDay": { "description": "Label for displaying daily average cigarette consumption." },
+  
+  "mostCommonReason": "Most common reason",
+  "@mostCommonReason": { "description": "Label for showing the most common reason for smoking." },
+  
+  "moreDetails": "More details",
+  "@moreDetails": { "description": "Button to show more details." },
+  
+  "moreDetailsInYourProgress": "More details in your progress",
+  "@moreDetailsInYourProgress": { "description": "Text displaying additional progress details." },
+  
+  "optionItemAddSmokedDetails": "Details of the cigarette you are smoking",
+  "@optionItemAddSmokedDetails": { "description": "Label for adding details of a smoked cigarette." },
+  
+  "alcohol": "Alcohol",
+  "@alcohol": { "description": "Reason: Alcohol." },
+  
+  "antidepressive": "Anti Depressive",
+  "@antidepressive": { "description": "Reason: Anti-depressive medication." },
+  
+  "anxiety": "Anxiety",
+  "@anxiety": { "description": "Reason: Anxiety." },
+  
+  "awakening": "Awakening",
+  "@awakening": { "description": "Reason: Awakening." },
+  
+  "boredom": "Boredom",
+  "@boredom": { "description": "Reason: Boredom." },
+  
+  "concentration": "Concentration",
+  "@concentration": { "description": "Reason: Concentration." },
+  
+  "drugs": "Drugs",
+  "@drugs": { "description": "Reason: Drug use." },
+  
+  "nervousness": "Nervousness",
+  "@nervousness": { "description": "Reason: Nervousness." },
+  
+  "pleasure": "Pleasure",
+  "@pleasure": { "description": "Reason: Pleasure." },
+  
+  "socialization": "Socialization",
+  "@socialization": { "description": "Reason: Socialization." },
+  
+  "stress": "Stress",
+  "@stress": { "description": "Reason: Stress." },
+  
+  "save": "Save",
+  "@save": { "description": "Button text for saving changes." },
+  
+  "cancel": "Cancel",
+  "@cancel": { "description": "Button text for cancelling an operation." },
+  
+  "date": "Date",
+  "@date": { "description": "Label for date input field." },
+  
+  "time": "Time",
+  "@time": { "description": "Label for time input field." },
+  
+  "circumstance": "Circumstance",
+  "@circumstance": { "description": "Label for describing the circumstances of smoking." },
+  
+  "reason": "Reason",
+  "@reason": { "description": "Label for specifying the reason for smoking." },
+  
+  "relevance": "Relevance",
+  "@relevance": { "description": "Label for specifying the relevance of the event." },
+  
+  "days": "Days",
+  "@days": { "description": "Label for displaying days." },
+  
+  "hours": "Hours",
+  "@hours": { "description": "Label for displaying hours." },
+  
+  "minutes": "Minutes",
+  "@minutes": { "description": "Label for displaying minutes." },
+  
+  "seconds": "Seconds",
+  "@seconds": { "description": "Label for displaying seconds." }
+}

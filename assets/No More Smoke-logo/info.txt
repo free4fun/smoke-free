@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: dulciannormregular
+font link: https://www.fontspring.com/fonts/insigne/dulcian/dulcian-normal-regular
+font author: insigne design
+font author site: http://www.insignedesign.com/
+
+
+icon designer: James Cottell
+icon designer link: /jamescottell
+        
+{"bg":"#54553C","icon":"#9BD92B","font":"#FFFFFF","slogan":"#ffffff"}
+      
