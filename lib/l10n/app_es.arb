@@ -1,50 +1,8 @@
 {
   "@@locale": "es",
-  "normalTextHomeDescription": "Esta herramienta puede ayudarte a dejar de fumar.",
-  "@normalTextHomeDescription": { "description": "Texto de descripción mostrado en la pantalla principal." },
-  
-  "configureYourPlan": "Configura tu plan",
-  "@configureYourPlan": { "description": "Etiqueta para configurar el plan de dejar de fumar del usuario." },
-  
-  "seeYourProgress": "Tu progreso",
-  "@seeYourProgress": { "description": "Etiqueta para mostrar el progreso del usuario." },
-  
-  "generalSettings": "Configuración general",
-  "@generalSettings": { "description": "Etiqueta para acceder a la configuración general." },
-  
-  "homeAddSmoked": "Agregar cigarrillo",
-  "@homeAddSmoked": { "description": "Botón para registrar un cigarrillo fumado." },
-  
-  "progressLevel": "Nivel de progreso",
-  "@progressLevel": { "description": "Etiqueta para mostrar el nivel de progreso." },
-  
-  "progressRate": "Tasa de progreso",
-  "@progressRate": { "description": "Etiqueta para mostrar la tasa de progreso." },
-  
-  "sinceTheLastTimeYouSmoked": "Desde la última vez que fumaste",
-  "@sinceTheLastTimeYouSmoked": { "description": "Texto que muestra el tiempo desde el último cigarrillo." },
-  
-  "notSmokedSince": "No has fumado desde",
-  "@notSmokedSince": { "description": "Mensaje que indica el tiempo que el usuario lleva sin fumar." },
-  
-  "averageSmokedPerDay": "Promedio fumado por día",
-  "@averageSmokedPerDay": { "description": "Etiqueta para mostrar el promedio diario de cigarrillos fumados." },
-  
-  "mostCommonReason": "Razón más común",
-  "@mostCommonReason": { "description": "Etiqueta para mostrar la razón más común para fumar." },
-  
-  "moreDetails": "Más detalles",
-  "@moreDetails": { "description": "Botón para mostrar más detalles." },
-  
-  "save": "Guardar",
-  "@save": { "description": "Botón para guardar cambios." },
-  
-  "cancel": "Cancelar",
-  "@cancel": { "description": "Botón para cancelar una operación." },
-  
-  "date": "Fecha",
-  "@date": { "description": "Etiqueta para el campo de entrada de la fecha." },
-  
-  "time": "Hora",
-  "@time": { "description": "Etiqueta para el campo de entrada de la hora." }
+  "appTitle": "Libre de Humo",
+  "registerConsumption": "Registrar Consumo",
+  "cigaretteLogged": "Cigarrillo registrado a las {time}",
+  "statistics": "Estadísticas",
+  "settings": "Configuración"
 }
